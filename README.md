@@ -1,6 +1,7 @@
 # UNet-TA-UNet-for-Semantic-Segmentation
 implementation of UNet  and TA-UNet for semantic segmentation / Marine dataset 
-Project Level : High-Intermediate
+
+## Project Level : High-Intermediate
 *You may find the report of the project under the name "UNet & TA-UNet for Marine Semantic Segmentation-Solouki.PDF"*
 
 ##  Project Highlights
